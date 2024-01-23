@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/SIH_websiteApplication/static/css/main.b7cccbe7.css",
+    "main.js": "/SIH_websiteApplication/static/js/main.ce11b82a.js",
+    "static/media/background2.jpg": "/SIH_websiteApplication/static/media/background2.47d9b5229367df992a69.jpg",
+    "static/media/electrican1.jpg": "/SIH_websiteApplication/static/media/electrican1.6c46eede72ae372064f9.jpg",
+    "static/media/society.jpg": "/SIH_websiteApplication/static/media/society.8b911c9c4b3d2f866171.jpg",
+    "static/media/backgservice.jpeg": "/SIH_websiteApplication/static/media/backgservice.952ce19cc53bb6f3b089.jpeg",
+    "static/media/people.jpg": "/SIH_websiteApplication/static/media/people.6d01754597da0b944ca9.jpg",
+    "static/media/serviceimage.jpg": "/SIH_websiteApplication/static/media/serviceimage.f5819b881c9900fda95d.jpg",
+    "static/media/street.jpg": "/SIH_websiteApplication/static/media/street.137a0d638908b6d4aaaf.jpg",
+    "index.html": "/SIH_websiteApplication/index.html",
+    "main.b7cccbe7.css.map": "/SIH_websiteApplication/static/css/main.b7cccbe7.css.map",
+    "main.ce11b82a.js.map": "/SIH_websiteApplication/static/js/main.ce11b82a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7cccbe7.css",
+    "static/js/main.ce11b82a.js"
+  ]
+}
